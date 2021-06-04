@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grpcSender", "grpcSender\grpcSender.csproj", "{DC875B0F-DCE6-4960-88A5-843D355EA490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grpcSender.Infrastructure", "grpcSender.Infrastructure\grpcSender.Infrastructure.csproj", "{933D499F-1839-4613-8175-7BE35E50A481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC875B0F-DCE6-4960-88A5-843D355EA490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC875B0F-DCE6-4960-88A5-843D355EA490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC875B0F-DCE6-4960-88A5-843D355EA490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC875B0F-DCE6-4960-88A5-843D355EA490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933D499F-1839-4613-8175-7BE35E50A481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933D499F-1839-4613-8175-7BE35E50A481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933D499F-1839-4613-8175-7BE35E50A481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933D499F-1839-4613-8175-7BE35E50A481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
